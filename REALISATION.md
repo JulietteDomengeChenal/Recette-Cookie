@@ -1,1 +1,2 @@
-# Recette-Cookie
+# Réalisation :
+- Détailler le chocolat en pépites
